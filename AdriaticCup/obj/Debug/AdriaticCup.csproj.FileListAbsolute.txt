@@ -1,0 +1,18 @@
+c:\users\hp\documents\visual studio 2013\Projects\AdriaticCup\AdriaticCup\bin\Debug\AdriaticCup.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\AdriaticCup\AdriaticCup\bin\Debug\AdriaticCup.exe
+c:\users\hp\documents\visual studio 2013\Projects\AdriaticCup\AdriaticCup\bin\Debug\AdriaticCup.pdb
+c:\users\hp\documents\visual studio 2013\Projects\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.exe
+c:\users\hp\documents\visual studio 2013\Projects\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.pdb
+C:\Users\Bosko\Desktop\AdriaticCup\AdriaticCup\bin\Debug\AdriaticCup.exe.config
+C:\Users\Bosko\Desktop\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.exe
+C:\Users\Bosko\Desktop\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.pdb
+C:\Users\Bosko\Desktop\AdriaticCup\AdriaticCup\bin\Debug\AdriaticCup.exe
+C:\Users\Bosko\Desktop\AdriaticCup\AdriaticCup\bin\Debug\AdriaticCup.pdb
+C:\Users\Bosko\Desktop\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.csprojResolveAssemblyReference.cache
+C:\Users\Bosko\Desktop\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.Form1.resources
+C:\Users\Bosko\Desktop\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.Properties.Resources.resources
+C:\Users\Bosko\Desktop\AdriaticCup\AdriaticCup\obj\Debug\AdriaticCup.csproj.GenerateResource.Cache
